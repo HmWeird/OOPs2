@@ -1,0 +1,16 @@
+new;10.0;di;10;10
+JA;10.0;JA;10;JA
+Daten des Kurses
+name des KursesInfoKurs Betrag300.0Kurs WochentagMittwochKurs Startuhrzeit10Kurs VorkenntnisseJava, python, DEDaten des Kurses
+
+name des Kursesinformatik
+Kurs Betrag400.0
+Kurs Wochentagjeden Tag
+Kurs Startuhrzeit12
+Kurs Vorkenntnissejava, py,  cDaten des Kurses: 
+
+name des Kurses:     Wirthschaft
+Kurs Betrag:    300.0
+Kurs Wochentag:    JD
+Kurs Startuhrzeit:    10
+Kurs Vorkenntnisse:    Java, Wirtschaft, Mathe
